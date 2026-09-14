@@ -1,2 +1,2 @@
 # f1-strategy-intelligence
-Hi, this is just something I'm casually working on. I'm trying to build a small race database which analyses data and predicts outcomes.
+Hi, this is just something I'm casually working on. I'm trying to build a small race database which analyses data and predicts race outcomes using my experience with data analysis and skills in SQL, Python, and Machine Learning. I will be posting updates on a weekly basis as different phases of my project. I'm still trying to learn as I go so please be kind and mindful! Thank you for taking a look and leaving your opinion. :)
