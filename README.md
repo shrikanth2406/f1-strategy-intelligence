@@ -6,12 +6,12 @@ I come from a tire industry commercial background (CEAT Ltd, US market) and I'm 
 
 ## What's in this repo
 
-01_product_brief.pdf - Framing	the problem, the users, success metrics, and the 5 questions this tool answers
-02_queries.sql - SQL queries against the race database showing degradation, stints, pit stops
-f1_strategy.db - The SQLite race database
-03_analysis.ipynb - Python/pandas analysis showing tire degradation curves, pit window detection, driver consistency ranking
-04_strategy_explorer.pbix - An interactive Power BI dashboard which can be filtered by race, driver, compound
-05_product_roadmap.pdf - Feature backlog with RICE scores and a Now/Next/Later roadmap
+- '01_product_brief.pdf' - Framing	the problem, the users, success metrics, and the 5 questions this tool answers
+- '02_queries.sql' - SQL queries against the race database showing degradation, stints, pit stops
+- 'f1_strategy.db' - The SQLite race database
+- '03_analysis.ipynb' - Python/pandas analysis showing tire degradation curves, pit window detection, driver consistency ranking
+- '04_strategy_explorer.pbix' - An interactive Power BI dashboard which can be filtered by race, driver, compound
+- '05_product_roadmap.pdf' - Feature backlog with RICE scores and a Now/Next/Later roadmap
 f1_laps.csv - Raw exported lap data from FastF1
 
 ## Key finding so far
