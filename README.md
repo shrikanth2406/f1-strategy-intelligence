@@ -12,7 +12,9 @@ I come from a tire industry commercial background (CEAT Ltd, US market) and I'm 
 - '03_analysis.ipynb' - Python/pandas analysis showing tire degradation curves, pit window detection, driver consistency ranking
 - '04_strategy_explorer.pbix' - An interactive Power BI dashboard which can be filtered by race, driver, compound
 - '05_product_roadmap.pdf' - Feature backlog with RICE scores and a Now/Next/Later roadmap
-f1_laps.csv - Raw exported lap data from FastF1
+- 'f1_laps.csv' - Raw exported lap data from FastF1
+- '06_execution_plan.pdf' - Has an agile execution plan for the Driver Tire Management Leaderboard containing epics, user stories, sprint plans and a risk a register.
+- '07_process_improvement.pdf' - Consists of a Lean Six Sigma DMAIC analysis of F1 Pit Stop time variation.
 
 ## Key finding so far
 
