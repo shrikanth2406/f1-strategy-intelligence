@@ -15,6 +15,7 @@ I come from a tire industry commercial background (CEAT Ltd, US market) and I'm 
 - 'f1_laps.csv' - Raw exported lap data from FastF1
 - '06_execution_plan.pdf' - Has an agile execution plan for the Driver Tire Management Leaderboard containing epics, user stories, sprint plans and a risk a register.
 - '07_process_improvement.pdf' - Consists of a Lean Six Sigma DMAIC analysis of F1 Pit Stop time variation.
+- '08_recommendation.pptx' - A PPT consisting of key findings and recommendations. 
 
 ## Key finding so far
 
